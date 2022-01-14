@@ -1,0 +1,56 @@
+body{
+    background-color: rgba(167,113,79,0.82);
+}
+.saru{
+    color: rgba(19,44,167,0.82);
+    text-align: center;
+    font-size: 50px;
+}
+.crystal{
+    background-color: #ff0028;
+    width: 100px;
+    height: 50px;
+    border-radius: 8px;
+    border: unset;
+    font-size: 20px;
+    color: #ffffff;
+    cursor: pointer;
+
+}
+a{
+    text-decoration: none;
+}
+.maureen{
+    color: #c92900;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+.Register{
+    width: 40%;
+    margin: auto;
+
+}
+.catherine{
+    width: 100%;
+    height: 30px;
+    border-radius: 8px;
+    border: unset;
+    padding-left: 16px;
+    color: rgba(167,18,0,0.82);
+    font-weight: bold;
+}
+.abdullahi{
+
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 40px;
+    background-color: #18c900;
+    border-radius: 8px;
+    border: unset;
+    color: #ffffff;
+    font-size: 20px;
+
+
+}
